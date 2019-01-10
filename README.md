@@ -1,0 +1,2 @@
+# PlatformLibCore
+Android Platform LibCore
